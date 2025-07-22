@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/clx/STM32CubeIDE/workspace_1.16.0/freertos_demo/freertos_demo2/cmake_install.cmake",
+		"/Users/clx/STM32CubeIDE/workspace_1.16.0/freertos_demo/freertos_demo2/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

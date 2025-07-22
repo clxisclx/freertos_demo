@@ -1,4 +1,4 @@
-# Install script for directory: /Users/clx/STM32CubeIDE/workspace_1.16.0/freertos_demo1/cmake/stm32cubemx
+# Install script for directory: /Users/clx/STM32CubeIDE/workspace_1.16.0/freertos_demo/freertos_demo1/cmake/stm32cubemx
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,6 +40,6 @@ endif()
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "/Users/clx/STM32CubeIDE/workspace_1.16.0/freertos_demo1/build/Debug/cmake/stm32cubemx/install_local_manifest.txt"
+  file(WRITE "/Users/clx/STM32CubeIDE/workspace_1.16.0/freertos_demo/freertos_demo1/build/Debug/cmake/stm32cubemx/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
