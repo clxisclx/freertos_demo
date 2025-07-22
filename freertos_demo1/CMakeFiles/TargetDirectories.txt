@@ -1,0 +1,7 @@
+/Users/clx/STM32CubeIDE/workspace_1.16.0/freertos_demo/freertos_demo1/CMakeFiles/freertos_demo1.dir
+/Users/clx/STM32CubeIDE/workspace_1.16.0/freertos_demo/freertos_demo1/CMakeFiles/edit_cache.dir
+/Users/clx/STM32CubeIDE/workspace_1.16.0/freertos_demo/freertos_demo1/CMakeFiles/rebuild_cache.dir
+/Users/clx/STM32CubeIDE/workspace_1.16.0/freertos_demo/freertos_demo1/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+/Users/clx/STM32CubeIDE/workspace_1.16.0/freertos_demo/freertos_demo1/cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir
+/Users/clx/STM32CubeIDE/workspace_1.16.0/freertos_demo/freertos_demo1/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/Users/clx/STM32CubeIDE/workspace_1.16.0/freertos_demo/freertos_demo1/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
