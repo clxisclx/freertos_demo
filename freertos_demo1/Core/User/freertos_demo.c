@@ -86,11 +86,11 @@ void start_task(void *pvParameters) {
                 TASK3_PRIORITY,
                 &task3_handle);
 
-    // 启动任务只需要执行一次即可，用完就删除自己
-    vTaskDelete(NULL);
-
     // 离开临界区
     taskEXIT_CRITICAL();
+
+    // 启动任务只需要执行一次即可，用完就删除自己
+    vTaskDelete(NULL);
 }
 
 /**
