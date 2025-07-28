@@ -73,3 +73,6 @@
 990	1328	1753256361239692894	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj	2eb315727f7e7246
 1210	1458	1753256361459753481	cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj	a271fb2708a092da
 1458	1581	1753256361708139907	freertos_demo1.elf	b98d0328742fea01
+4	340	1753348551045310469	CMakeFiles/freertos_demo1.dir/Core/User/freertos_demo.c.obj	6c8ba596421e6e9d
+5	354	1753348551046148665	CMakeFiles/freertos_demo1.dir/Core/Src/main.c.obj	2ed032724464e13c
+354	577	1753348551395183980	freertos_demo1.elf	b98d0328742fea01
